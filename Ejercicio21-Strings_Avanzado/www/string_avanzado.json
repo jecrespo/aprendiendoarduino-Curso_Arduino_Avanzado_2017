@@ -1,0 +1,14 @@
+{"Musica":
+  {"Notas":
+   [
+    {"frecuencia":"NOTE_C4","tiempo":250},
+    {"frecuencia":"NOTE_G3","tiempo":125},
+    {"frecuencia":"NOTE_G3","tiempo":125},
+	{"frecuencia":"NOTE_A3","tiempo":250},
+	{"frecuencia":"NOTE_G3","tiempo":250},
+	{"frecuencia":"0","tiempo":250},
+	{"frecuencia":"NOTE_B3","tiempo":250},
+	{"frecuencia":"NOTE_C4","tiempo":250}
+   ]
+  }
+}
